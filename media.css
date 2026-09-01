@@ -1,0 +1,128 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+    .btn-outer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        padding: 5px 0;
+        left: 0;
+        display: flex; 
+        justify-content: center !important;
+    }
+    .watsappbtn,.call{
+        
+        font-size: 14px;
+        padding: 7px 15px;
+
+    }
+    .students h1{
+        font-size: 24px;
+    }
+    .bannercontent h1{
+        font-size: 28px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 35px;
+     }
+    .bannercontent br{
+        display: none;
+    }
+    .bannercontent p, .bannercontent ul li{
+        font-size: 16px;
+     }
+     .bannercontentbtn{
+        flex-direction: column;
+     }
+     .bannercontentbtn button{
+        width: 100%;
+     }
+     .bannerform{
+        padding: 20px;
+    }
+    .highlights-section h2{
+        font-size: 20px;
+    }
+    .btn1{
+        padding: 20px 5px;
+        width: 40%;
+        font-size: 12px;
+    }
+    .keybtn{
+        padding: 20px 5px;
+        width: 40%;
+        font-size: 12px;
+    }
+    .career h2{
+        font-size: 24px;
+    }
+    .career p{
+        font-size: 18px;
+    }
+    .certificate .btnc{
+        padding: 20px 5px;
+        
+        font-size: 12px;
+    }
+    .digital-market .btnd{
+        padding: 20px 5px;
+        width: 40%;
+        font-size: 12px;
+    }
+    .students-items{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .students-button h2{
+        font-size: 24px;
+        font-weight: 600;
+        }
+        .students-button p{
+            font-size: 12px;
+            font-weight: 400;
+            }
+            .students-button .btns{
+                padding: 20px 5px;
+                font-size: 15px;
+                font-weight: 600;
+                
+            }
+            .students-button{
+                background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+                width: 100%;
+                height: 350px;
+            
+            }
+            .footer h2{
+                font-size: 22px;
+            }
+            .footer-item p{
+                font-size: 10px;
+            }
+            .footer-item{
+                width: 100%;
+                height: 282px;
+                padding-bottom: 15px;
+        
+            }
+            .digital-market h2{
+                font-size: 24px;
+                font-weight: 700;
+                }
+                .digital-market p{
+                    font-size: 14px;
+                    font-weight: 400;
+                }
+}
+@media only screen and (min-width: 576px) and (max-width: 1000px){
+.students-items{
+display: flex;
+flex-wrap: wrap;
+}
+
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}

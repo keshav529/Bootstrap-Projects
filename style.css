@@ -1,0 +1,292 @@
+*{
+    font-family: "Inter", serif;
+ }
+ .whatsappbtn{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+    font-size: 16px;
+ }
+ .whatsappbtn i{
+    color: #27AE60;
+ }
+ .whatsappbtn:hover{
+    border: 1px solid #27AE60;
+ }
+ .call{
+    color: white;
+    padding: 10px 18px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+
+ }
+ .bannercontent h1{
+    font-size: 52px;
+    font-weight: 700;
+ }
+ .bannercontent h1 span{
+    color: #2699FB;
+    background: url("images/image1.svg") bottom no-repeat;
+ }
+ .bannercontent p{
+    font-size: 22px;
+ }
+ .bannercontent ul {
+    list-style: none;
+ }
+ .bannercontent ul li{
+    font-size: 22px;
+ }
+ .bannercontent ul li i{
+    color: #2699FB;
+ }
+
+ .bannercontentbtn button{
+    width: 50%;
+    padding: 10px 0;
+    border-radius: 10px;
+    border: none;
+ }
+ .bannercontent button:first-child{
+    color: white;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+
+ }
+.bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerform h3{
+    font-size: 18px;
+}
+.bannerform button{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    width: 100%;
+    padding: 14px 0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.currentsection h2{
+color: #2699FB;
+font-weight: 700;
+font-size: 30px;
+}
+.highlights-section{
+    background-color:#F7FAFF;
+}
+.highlights-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+.highlights-section p{
+    font-size: 18px;
+}
+.highlights-items h4{
+    font-weight: 600;
+    font-size: 20px;
+}
+.highlights-items  p{
+    font-weight: 400;
+    font-size: 15px;
+}
+.btn1{
+    color: white;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    padding: 15px 10px;
+    width: 25%;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.accordiontopic{
+    background-color: #F7FAFF;
+}
+.keybtn{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    color: white;
+    padding: 15px 10px;
+    width: 25%;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.career h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+.career p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.careeritem h5{
+font-size: 18px;
+font-weight: 600;
+}
+.careeritem p{
+    font-size: 15px;
+    font-weight: 400;
+}
+.careeritem img{
+  padding-bottom: 25px;
+}
+.careeritem h5{
+    padding-bottom: 5px;
+}
+.certificate{
+   background-color: #F7FAFF;
+}
+.certificate h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+.certificate p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.certificate .btnc{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+border: none;
+font-weight: 700;
+font-size: 20px;
+color: white;
+padding: 16px 48px;
+border-radius: 8px;
+}
+.digital-market{
+    background-color: #F7FAFF;
+}
+.digital-market h2{
+font-size: 36px;
+font-weight: 700;
+}
+.digital-market p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.digital-market-items h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+.digital-market-items p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.digital-market .btnd{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+border: none;
+font-weight: 700;
+font-size: 20px;
+color: white;
+padding: 16px 48px;
+border-radius: 8px;
+}
+.students h1{
+    font-size: 44px;
+    font-weight: 700;
+}
+.students p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.students-items h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+.students p{
+    font-size: 18px;
+    font-weight: 400;
+}
+.students-items{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.students-button{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    width: 100%;
+    height: 384px;
+    border-radius: 18px;
+
+}
+.students-button h2{
+font-size: 44px;
+font-weight: 700;
+color: white;
+}
+.students-button p{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    }
+    .students-button .btns{
+        background: #FFFFFF;
+        padding: 16px 48px;
+        border: none;
+        border-radius: 8px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .footer h2{
+        font-size: 36px;
+        font-weight: 700 ;
+    }
+    .footer-item{
+        background: #0A2540;
+        width: 100%;
+        height: 282px;
+
+    }
+    .footer-item p{
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .footer-item hr{
+        border: 1px solid #FFFFFF;
+        margin-top: 35px;
+    }
+    .footer-item .para{
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .tabcontents ul{
+        list-style: none;
+    }
+    .tab-content ul li i{
+        color: #2699FB;
+    }
+/* Active tab ki styling */
+.tabmysystem .nav-tabs .nav-link.active {
+    background-color: #F2F4F7 !important;
+    color: #0A2134 !important;
+    border-bottom: 2px solid blue !important;
+}
+
+/* Tab links ke spacing aur border ko theek karne ke liye */
+.tabmysystem .nav-tabs .nav-link {
+    border: none !important; /* Default Bootstrap border ko remove karega */
+    padding: 10px 15px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Jab kisi tab pe hover kare to styling change ho */
+.tabmysystem .nav-tabs .nav-link:hover {
+    background-color: #EAECEF !important;
+    color: #0A2134 !important;
+}
+
+/* Tab content ka styling */
+.tabcontents {
+    background-color: white;
+    border-radius: 10px;
+}
+
+    
+    
+    
+    
+   
